@@ -1,4 +1,4 @@
-#Module 15 Mini-Project: Chat Application Project
+# Module 15 Mini-Project: Chat Application Project
 
 Our objective is to create a versatile WebSocket Chat Application, that enables users to communicate in real-time. 
 The system should facilitate a seamless user experience by supporting a wide array of operations, including joining chat rooms, sending messages, and handling users. 
@@ -28,7 +28,7 @@ Create a GitHub repository for the project and commit code regularly.
 Maintain a clean and interactive README.md file in the GitHub repository, providing clear instructions on how to run the application and explanations of its features.
 Include a link to the GitHub repository in the project documentation.
 
-##How to use:
+## How to use:
 
 Run the app file. Open both links given and give different usernames but same room names for both links. Then click "join room". Once joined, write messages from both links and
 you should see the messages pop up in the chat box!

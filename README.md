@@ -6,7 +6,7 @@ To achieve this goal, we must implement a diverse set of functionalities using W
 
 
 
-Project Requirements
+### Project Requirements:
 WebSocket Setup and Configuration:
 Implement WebSocket connections in the chat application.
 Understand the concept of bi-directional, full-duplex communication.

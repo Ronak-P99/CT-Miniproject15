@@ -1,4 +1,5 @@
 #Module 15 Mini-Project: Chat Application Project
+
 Our objective is to create a versatile WebSocket Chat Application, that enables users to communicate in real-time. 
 The system should facilitate a seamless user experience by supporting a wide array of operations, including joining chat rooms, sending messages, and handling users. 
 To achieve this goal, we must implement a diverse set of functionalities using WebSocket technology and JavaScript programming techniques.
